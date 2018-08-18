@@ -8,7 +8,7 @@ First,you should upload your pictures.Remember to name your pictures such as```n
 
 *What is the name of your picture?*
 
-# Look at this number:2
+# Look at this number:3
 
 __The name of your picture is that number add one__
 
