@@ -14,4 +14,8 @@ __The name of your picture is that number add one__
 
 __When you upload your pictures,don't forget to change that number to the number of the last pictures!__
 
+__In markdown:https://Ryanwxn.github.io/ryanwxn.github.io/1.jpg__
+
+*For example*
+
 # Thanks for your use!
